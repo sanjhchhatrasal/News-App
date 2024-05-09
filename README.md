@@ -24,3 +24,27 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
+2. Navigate to the project directory:
+ 
+3. Install dependencies:
+
+4. Start the development server:
+
+ 
+5. Open your browser and go to `http://localhost:3000` to view the app.
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or bug fixes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
+ 
+
+
+
+
+
+
+
